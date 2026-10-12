@@ -13,8 +13,6 @@ A command-line Tic-Tac-Toe game in Python where you play against an unbeatable A
 
 - Python 3.6 or higher
 
-No external packages are needed.
-
 ## How to Run
 
 1. Save the code as `tictactoe.py`.
