@@ -99,7 +99,7 @@ For each empty cell, the AI tries a move, recursively evaluates the resulting bo
 | `check_draw(board)` | Returns `True` if the board is full. |
 | `minimax(board, depth, is_maximizing)` | Recursively scores a board position. |
 | `best_move(board)` | Returns the `(row, col)` of the AI's best move. |
-| `play_game()` | Main game loop handling input, turns, and results. |
+| `play_game()` | Main game loop handling input and results. |
 
 ## Notes and Limitations
 
